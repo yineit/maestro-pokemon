@@ -1,0 +1,14 @@
+.active {
+  color:gold ; 
+  }
+
+.danger {
+  text-align: right;
+  background-color: black;
+  padding: 20px;
+}
+
+.danger a{
+  font-size: 20px;
+  text-decoration: none;
+}
